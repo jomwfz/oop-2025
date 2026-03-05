@@ -1,0 +1,13 @@
+# Ignore Eclipse metadata and settings
+.metadata/
+.settings/
+.project
+.classpath
+
+# Ignore compiled classes
+bin/
+*.class
+
+# Ignore OS generated files
+Thumbs.db
+.DS_Store
