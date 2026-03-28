@@ -1,13 +1,11 @@
-# Ignore Eclipse metadata and settings
+# Ignore Eclipse workspace metadata 
 .metadata/
 .settings/
-.project
-.classpath
 
-# Ignore compiled classes
+# Ignore compiled classes 
 bin/
 *.class
 
-# Ignore OS generated files
+# Ignore OS files
 Thumbs.db
 .DS_Store

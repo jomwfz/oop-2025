@@ -1,3 +1,4 @@
+
 public class Shape {
 	protected Point point;
 	protected String color;
